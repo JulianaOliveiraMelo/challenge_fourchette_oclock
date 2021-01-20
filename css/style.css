@@ -1,0 +1,35 @@
+h1 {
+    background-color: rebeccapurple;
+    color: white;
+    font-family: sans-serif;
+    transition: all 1s;
+}
+
+article {
+    transition: all 1s;
+}
+
+.victory {
+    background-color: green;
+    font-size: 5em;
+}
+
+.cool {
+    border: 2px solid yellow;
+}
+
+.shiny {
+    border-radius: 2em;
+    color: lightgoldenrodyellow;
+}
+
+#highscore {
+    border: 2px solid darkgray;
+    padding: .2em;
+}
+
+#highscore td, #highscore th {
+    padding: .2em;
+    border: 2px solid darkgray;
+    border-collapse: collapse;
+}
